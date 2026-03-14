@@ -1,1 +1,6 @@
-{"version":"0.1.2","category":"minor","changelog":"Second test update — verifying full round-trip update cycle.","downloadUrl":"https://github.com/vbcoach/pulse-updates/releases/download/v0.1.2-dev/app.asar","publishedAt":"2026-03-14T23:25:00Z","minElectronVersion":"35.0.0"}
+{"version":"0.1.3","category":"feature","changelog":"Update flow now uses a proper modal dialog!
+
+• Urgency badge shows update severity
+• Changelog section with full details
+• Download progress bar
+• Clear Restart to Install button","downloadUrl":"https://github.com/vbcoach/pulse-updates/releases/download/v0.1.3-dev/app.asar","publishedAt":"2026-03-14T23:48:00Z","minElectronVersion":"35.0.0"}
