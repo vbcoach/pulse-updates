@@ -1,8 +1,8 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "category": "feature",
-  "changelog": "Fixed update installation!\n\n• Fixed 'Invalid package' error during download\n• Update modal now shows correct version and category\n• Proper download progress and Restart to Install flow",
-  "downloadUrl": "https://github.com/vbcoach/pulse-updates/releases/download/v0.1.5-dev/app.asar",
-  "publishedAt": "2026-03-15T00:10:00Z",
+  "changelog": "Update modal improvements!\n\n• Fixed download validation (process.noAsar)\n• Version and category display correctly\n• Smooth download → restart flow",
+  "downloadUrl": "https://github.com/vbcoach/pulse-updates/releases/download/v0.1.6-dev/app.asar",
+  "publishedAt": "2026-03-15T00:20:00Z",
   "minElectronVersion": "35.0.0"
 }
