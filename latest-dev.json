@@ -1,8 +1,8 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.7",
   "category": "feature",
   "changelog": "Update modal improvements!\n\n• Fixed download validation (process.noAsar)\n• Version and category display correctly\n• Smooth download → restart flow",
-  "downloadUrl": "https://github.com/vbcoach/pulse-updates/releases/download/v0.1.6-dev/app.asar",
-  "publishedAt": "2026-03-15T00:20:00Z",
+  "downloadUrl": "https://github.com/vbcoach/pulse-updates/releases/download/v0.1.7-dev/app-0.1.7.asar",
+  "publishedAt": "2026-03-15T00:22:00Z",
   "minElectronVersion": "35.0.0"
 }
