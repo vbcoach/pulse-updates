@@ -1,8 +1,1 @@
-{
-  "version": "0.2.1",
-  "category": "minor",
-  "changelog": "Update system fixes: reliable download, smooth restart",
-  "downloadUrl": "https://github.com/vbcoach/pulse-updates/releases/download/v0.2.1-prod/app.asar",
-  "publishedAt": "2026-03-16T21:03:00Z",
-  "minElectronVersion": "35.0.0"
-}
+{"version":"0.2.2","category":"minor","changelog":"Update flow test","downloadUrl":"https://github.com/vbcoach/pulse-updates/releases/download/v0.2.2-prod/app.asar","publishedAt":"2026-03-16T21:31:00Z","minElectronVersion":"35.0.0"}
